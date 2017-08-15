@@ -66,7 +66,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第七节 MyBatis](https://segmentfault.com/l/1500000009952220)
+### [第七节 MyBatis](https://segmentfault.com/l/1500000009952220)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-7))
 
 * 主要内容
 
@@ -77,7 +77,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第八节 Java Persistence API](https://segmentfault.com/l/1500000009952527)
+### [第八节 Java Persistence API](https://segmentfault.com/l/1500000009952527)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-8))
 
 * 主要内容
 
@@ -87,7 +87,8 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第九节 NoSQL](https://segmentfault.com/l/1500000009957330)
+### [第九节 NoSQL](https://segmentfault.com/l/1500000009957330)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-9)) [[问答](https://segmentfault.com/l/1500000009957330/d/1560000010384965)]
+
 
 * 主要内容：
 
@@ -97,7 +98,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十节 缓存](https://segmentfault.com/l/1500000009970812)
+### [第十节 缓存](https://segmentfault.com/l/1500000009970812)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-10)) [[问答](https://segmentfault.com/l/1500000009970812/d/1560000010509920)]
 
 * 主要内容
 
@@ -108,7 +109,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十一节 消息](https://segmentfault.com/l/1500000009971600)
+### [第十一节 消息](https://segmentfault.com/l/1500000009971600)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-11)) [[问答](https://segmentfault.com/l/1500000009971600/d/1560000010580012)]
 
 * 主要内容
 
@@ -120,7 +121,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十二节 验证](https://segmentfault.com/l/1500000009971716)
+### [第十二节 验证](https://segmentfault.com/l/1500000009971716) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-12)) [[问答](https://segmentfault.com/l/1500000009971716/d/1560000010630935)]
 
 * 主要内容
 
